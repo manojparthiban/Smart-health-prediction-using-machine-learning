@@ -1,5 +1,5 @@
 # Smart-health-prediction-using-machine-learning
-Motive:
+Python based machine learning project.
 this project is based on the machine learning aspects of classifying different date as in healthcare industries and the symptoms which causes diseases are jawed down in a dataset. The Python file predict the disease according to the symptoms reported by the user. 
 the different classifiers such as SVM classifier, decision tree classifier, navie bayes classifier and plot for the corresponding classifiers determines the accuracy rate of production of different disease with symptoms.
 
